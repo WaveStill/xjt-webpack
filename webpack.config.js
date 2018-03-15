@@ -9,7 +9,7 @@ module.exports = {
   //设置开发者工具的端口号,不设置则默认为8080端口
   devServer: {
     inline: true,
-    port: 7070
+    port: 8080
   },
   module:{
     loaders:[
