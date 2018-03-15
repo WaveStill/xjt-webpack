@@ -6,10 +6,10 @@
 git clone git@github.com:WaveStill/xjt-webpack.git
 
 ###
-git install
+npm install
 
 ###
-git run dev
+npm run dev
 
 
 
